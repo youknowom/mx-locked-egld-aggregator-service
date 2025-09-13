@@ -19,6 +19,11 @@ Click the 'Fork' button at the top right of this repository's page. This will cr
 2. **Install**
 
 Once you have forked and cloned the project, you can install the Node dependencies by running the following command in the project directory:
+```
+## Prerequisites
+- Node.js (>=16)
+- Yarn (>=1.22)
+
 
 ```bash
 yarn install
